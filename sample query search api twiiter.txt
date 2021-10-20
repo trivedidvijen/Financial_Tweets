@@ -1,0 +1,1885 @@
+https://api.twitter.com/2/tweets/search/recent?query=ethereum.fields=author_id,attachments,context_annotations,conversation_id,created_at,entities,geo,id,in_reply_to_user_id,lang,possibly_sensitive,public_metrics,referenced_tweets,reply_settings,source,text,withheld
+
+200
+{
+    "data": [
+        {
+            "author_id": "2351112571",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Bitcoin Cryptocurrency",
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Ethereum Cryptocurrency",
+                        "id": "1007361429752594432",
+                        "name": "Ethereum cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045599570",
+                        "name": "Interactive Brokers"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Government",
+                        "id": "857878257630195712",
+                        "name": "Government"
+                    }
+                }
+            ],
+            "conversation_id": "1450140440062148608",
+            "created_at": "2021-10-18T16:43:17.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "U.S.",
+                        "probability": 0.9896,
+                        "start": 81,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "2704294333",
+                        "start": 3,
+                        "username": "DeItaone"
+                    }
+                ]
+            },
+            "id": "1450140440062148608",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 117
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450100675057266689",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @DeItaone: INTERACTIVE BROKERS - LAUNCH OF CRYPTOCURRENCY TRADING FOR RIAS IN U.S., ENABLING RIAS TO TRADE AND CUSTODY BITCOIN, ETHEREUM\u2026"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1450140420298715137",
+                    "3_1450140427051470851",
+                    "3_1450140431761776644",
+                    "3_1450140436094492687"
+                ]
+            },
+            "author_id": "1373353918617563137",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Ethereum Cryptocurrency",
+                        "id": "1007361429752594432",
+                        "name": "Ethereum cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Technology",
+                        "id": "857879456773357569",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Blockchain",
+                        "id": "1001503516555337728",
+                        "name": "Blockchain"
+                    }
+                }
+            ],
+            "conversation_id": "1450127689067630593",
+            "created_at": "2021-10-18T16:43:17.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "1229492564975329282",
+                        "start": 0,
+                        "username": "AlexxNFT"
+                    },
+                    {
+                        "end": 99,
+                        "id": "946213559213555712",
+                        "start": 91,
+                        "username": "opensea"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "The SkullBlock is a collection of 1,000 unique Skull, on Ethereum blockchain. New skulls are released every week Created by CoolT.",
+                        "display_url": "opensea.io/collection/sku\u2026",
+                        "end": 276,
+                        "expanded_url": "https://opensea.io/collection/skullblock",
+                        "images": [
+                            {
+                                "height": 400,
+                                "url": "https://pbs.twimg.com/news_img/1448296258741805060/cEj5iVE8?format=jpg&name=orig",
+                                "width": 1400
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1448296258741805060/cEj5iVE8?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 253,
+                        "status": 200,
+                        "title": "SkullBlock - Collection | OpenSea",
+                        "unwound_url": "https://opensea.io/collection/skullblock",
+                        "url": "https://t.co/oDMlPPGjgW"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Tp6Ph4eGFf",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/CoolTnft/status/1450140438854176769/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/Tp6Ph4eGFf"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Tp6Ph4eGFf",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/CoolTnft/status/1450140438854176769/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/Tp6Ph4eGFf"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Tp6Ph4eGFf",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/CoolTnft/status/1450140438854176769/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/Tp6Ph4eGFf"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Tp6Ph4eGFf",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/CoolTnft/status/1450140438854176769/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/Tp6Ph4eGFf"
+                    }
+                ]
+            },
+            "id": "1450140438854176769",
+            "in_reply_to_user_id": "1229492564975329282",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450127689067630593",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@AlexxNFT 2\ufe0f\u20e33\ufe0f\u20e30\ufe0f\u20e3 \ud83d\udc80 of the SkullBlock collection are now available.\u2764\ufe0f\n\nCheck them out at @opensea \u203c\ufe0f\u203c\ufe0f\n\nThe SkullBlock is a collection of 1\u20e30\u20e30\u20e30\u20e3 unique \ud83d\udc80, on Ethereum blockchain.\n\nFloor price 0.01 ETH \u203c\ufe0f\n             \nFind all the unique characters\nhttps://t.co/oDMlPPGjgW https://t.co/Tp6Ph4eGFf"
+        },
+        {
+            "author_id": "1320432542210609152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Ethereum Cryptocurrency",
+                        "id": "1007361429752594432",
+                        "name": "Ethereum cryptocurrency"
+                    }
+                }
+            ],
+            "conversation_id": "1450140425939947520",
+            "created_at": "2021-10-18T16:43:14.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "467535591",
+                        "start": 3,
+                        "username": "ercwl"
+                    }
+                ]
+            },
+            "id": "1450140425939947520",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450001553977401347",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @ercwl: Bitcoiners: \u201dOmg Ethereum DeFi is useless garbage because all dapps use trusted oracles!!!!\u201d\n\nAlso bitcoiners: \u201dDude, people are\u2026"
+        },
+        {
+            "author_id": "1362474088715935751",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Litecoin Cryptocurrency",
+                        "id": "1007351676301242369",
+                        "name": "Litecoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Bitcoin Cryptocurrency",
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Ethereum Cryptocurrency",
+                        "id": "1007361429752594432",
+                        "name": "Ethereum cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1139199278885163009",
+                        "name": "Stellar cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1304115130267963392",
+                        "name": "Binance Coin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1372588659346612225",
+                        "name": "Binance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "1412579054855671809",
+                        "name": "Google Innovation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                }
+            ],
+            "conversation_id": "1450140425847721987",
+            "created_at": "2021-10-18T16:43:14.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 18,
+                        "tag": "mydexchain"
+                    },
+                    {
+                        "end": 53,
+                        "start": 30,
+                        "tag": "speedoflightmydexchain"
+                    },
+                    {
+                        "end": 62,
+                        "start": 54,
+                        "tag": "dxccoin"
+                    },
+                    {
+                        "end": 75,
+                        "start": 63,
+                        "tag": "parexmarket"
+                    },
+                    {
+                        "end": 84,
+                        "start": 76,
+                        "tag": "Bitcoin"
+                    },
+                    {
+                        "end": 93,
+                        "start": 85,
+                        "tag": "Binance"
+                    },
+                    {
+                        "end": 103,
+                        "start": 94,
+                        "tag": "Ethereum"
+                    },
+                    {
+                        "end": 113,
+                        "start": 104,
+                        "tag": "Litecoin"
+                    },
+                    {
+                        "end": 118,
+                        "start": 114,
+                        "tag": "XLM"
+                    },
+                    {
+                        "end": 123,
+                        "start": 119,
+                        "tag": "BNB"
+                    },
+                    {
+                        "end": 128,
+                        "start": 124,
+                        "tag": "BTT"
+                    },
+                    {
+                        "end": 136,
+                        "start": 129,
+                        "tag": "Solana"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1227956723350228992",
+                        "start": 3,
+                        "username": "blockchain46"
+                    }
+                ]
+            },
+            "id": "1450140425847721987",
+            "lang": "und",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450116947438456838",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @blockchain46: #mydexchain #speedoflightmydexchain #dxccoin #parexmarket #Bitcoin #Binance #Ethereum #Litecoin #XLM #BNB #BTT #Solana #T\u2026"
+        },
+        {
+            "author_id": "3322669272",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Litecoin Cryptocurrency",
+                        "id": "1007351676301242369",
+                        "name": "Litecoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Bitcoin Cryptocurrency",
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Ethereum Cryptocurrency",
+                        "id": "1007361429752594432",
+                        "name": "Ethereum cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1370436971940642819",
+                        "name": "Coinbase"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                }
+            ],
+            "conversation_id": "1450140424157515792",
+            "created_at": "2021-10-18T16:43:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "Ethereum Free Pass Timeline",
+                        "probability": 0.3717,
+                        "start": 56,
+                        "type": "Product"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "991345218678116353",
+                        "start": 3,
+                        "username": "digitalassetbuy"
+                    },
+                    {
+                        "end": 48,
+                        "id": "574032254",
+                        "start": 39,
+                        "username": "coinbase"
+                    }
+                ]
+            },
+            "id": "1450140424157515792",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 108
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450113618989797382",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @digitalassetbuy: Is it time to put @coinbase in the Ethereum Free Pass Timeline?"
+        },
+        {
+            "author_id": "99059792",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Ethereum Cryptocurrency",
+                        "id": "1007361429752594432",
+                        "name": "Ethereum cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Technology",
+                        "id": "857879456773357569",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Blockchain",
+                        "id": "1001503516555337728",
+                        "name": "Blockchain"
+                    }
+                }
+            ],
+            "conversation_id": "1450140422840336386",
+            "created_at": "2021-10-18T16:43:13.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "151660778",
+                        "start": 3,
+                        "username": "QueenNFTpro"
+                    }
+                ]
+            },
+            "id": "1450140422840336386",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450132684626296832",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @QueenNFTpro: \ud83d\udc8e0xApes - The blockchain apes \ud83d\udc12\n\n6969 blockchain apes will be released onto Ethereum and forever live on... \ud83d\udd25\ud83d\udd25\n\n1) Follow,\u2026"
+        },
+        {
+            "author_id": "1368559700904718336",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "The latest hockey action from across the NHL.",
+                        "id": "10000467383",
+                        "name": "NHL Hockey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Bitcoin Cryptocurrency",
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Ethereum Cryptocurrency",
+                        "id": "1007361429752594432",
+                        "name": "Ethereum cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1139229087682068480",
+                        "name": "Tether cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                }
+            ],
+            "conversation_id": "1450140422156685317",
+            "created_at": "2021-10-18T16:43:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Giveaways"
+                    },
+                    {
+                        "end": 22,
+                        "start": 11,
+                        "tag": "PlayToEarn"
+                    },
+                    {
+                        "end": 28,
+                        "start": 23,
+                        "tag": "OKEx"
+                    },
+                    {
+                        "end": 40,
+                        "start": 30,
+                        "tag": "Avalanche"
+                    },
+                    {
+                        "end": 50,
+                        "start": 42,
+                        "tag": "Bitcoin"
+                    },
+                    {
+                        "end": 57,
+                        "start": 52,
+                        "tag": "USDT"
+                    },
+                    {
+                        "end": 67,
+                        "start": 58,
+                        "tag": "Ethereum"
+                    },
+                    {
+                        "end": 76,
+                        "start": 68,
+                        "tag": "NFTGame"
+                    },
+                    {
+                        "end": 85,
+                        "start": 77,
+                        "tag": "NFTGame"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/CryptoGames_CG\u2026",
+                        "end": 109,
+                        "expanded_url": "https://twitter.com/CryptoGames_CGC/status/1449257731760787459",
+                        "start": 86,
+                        "url": "https://t.co/ZLgJ5yCkVf"
+                    }
+                ]
+            },
+            "id": "1450140422156685317",
+            "lang": "und",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1449257731760787459",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "#Giveaways #PlayToEarn #OKEx\ufffc #Avalanche\ufffc #Bitcoin\ufffc #USDT #Ethereum #NFTGame #NFTGame https://t.co/ZLgJ5yCkVf"
+        },
+        {
+            "author_id": "1397362039014703106",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                }
+            ],
+            "conversation_id": "1450140420588118016",
+            "created_at": "2021-10-18T16:43:13.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 101,
+                        "tag": "Crypto"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1426250208640475142",
+                        "start": 3,
+                        "username": "miss_Gecko1984"
+                    },
+                    {
+                        "end": 36,
+                        "id": "1446129731410153485",
+                        "start": 20,
+                        "username": "CryptoIslandInc"
+                    },
+                    {
+                        "end": 47,
+                        "id": "2812404403",
+                        "start": 37,
+                        "username": "madeintyo"
+                    }
+                ]
+            },
+            "id": "1450140420588118016",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450139513435660300",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @miss_Gecko1984: @CryptoIslandInc @madeintyo Island Vibes are coming in hard! \n\nAt some point the #Crypto world will realise #Cryptoisla\u2026"
+        },
+        {
+            "author_id": "1445612898127007753",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Bitcoin Cryptocurrency",
+                        "id": "1007360414114435072",
+                        "name": "Bitcoin cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1448236149676261380",
+                        "name": "Shiba Inu cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Pets",
+                        "id": "852262932607926273",
+                        "name": "Pets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Dogs",
+                        "id": "853980498816679937",
+                        "name": "Dogs"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Shiba Inu",
+                        "id": "857601204154638336",
+                        "name": "Shiba Inu"
+                    }
+                }
+            ],
+            "conversation_id": "1450140409812819972",
+            "created_at": "2021-10-18T16:43:10.000Z",
+            "entities": {
+                "cashtags": [
+                    {
+                        "end": 99,
+                        "start": 94,
+                        "tag": "SHIB"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 109,
+                        "start": 100,
+                        "tag": "ShibArmy"
+                    },
+                    {
+                        "end": 119,
+                        "start": 110,
+                        "tag": "shibainu"
+                    },
+                    {
+                        "end": 133,
+                        "start": 120,
+                        "tag": "shibainucoin"
+                    },
+                    {
+                        "end": 138,
+                        "start": 134,
+                        "tag": "BTC"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1445558325613977602",
+                        "start": 3,
+                        "username": "SHIBgirl"
+                    }
+                ]
+            },
+            "id": "1450140409812819972",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450139611003555844",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @SHIBgirl: A genie appears and gives you three wishes -what will they be? Comment below\ud83d\udc9b\ud83d\ude80\n\n$SHIB #ShibArmy #shibainu #shibainucoin #BTC\u2026"
+        },
+        {
+            "author_id": "447057211",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Ethereum Cryptocurrency",
+                        "id": "1007361429752594432",
+                        "name": "Ethereum cryptocurrency"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Technology",
+                        "id": "857879456773357569",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Blockchain",
+                        "id": "1001503516555337728",
+                        "name": "Blockchain"
+                    }
+                }
+            ],
+            "conversation_id": "1450140405178175490",
+            "created_at": "2021-10-18T16:43:09.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "151660778",
+                        "start": 3,
+                        "username": "QueenNFTpro"
+                    }
+                ]
+            },
+            "id": "1450140405178175490",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 46
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1450132684626296832",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @QueenNFTpro: \ud83d\udc8e0xApes - The blockchain apes \ud83d\udc12\n\n6969 blockchain apes will be released onto Ethereum and forever live on... \ud83d\udd25\ud83d\udd25\n\n1) Follow,\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1450140440062148608",
+        "next_token": "b26v89c19zqg8o3fpdv5sc29xc96m22pkeec3ra4as1h9",
+        "oldest_id": "1450140405178175490",
+        "result_count": 10
+    }
+}
+
+
+https://api.twitter.com/2/tweets/search/recent?query=nyc&tweet.fields=author_id,created_at,entities,geo,in_reply_to_user_id,lang,possibly_sensitive,referenced_tweets,source
+
+{
+    "data": [
+        {
+            "text": "8123 fam role call for orlando date and (possibly) nyc?",
+            "author_id": "2396910744",
+            "created_at": "2021-10-18T16:16:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 23,
+                        "end": 29,
+                        "probability": 0.7946,
+                        "type": "Place",
+                        "normalized_text": "orlando"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133732216688646",
+            "geo": {
+                "place_id": "4ec01c9dbc693497"
+            }
+        },
+        {
+            "text": "RT @KinoLorber: “A simple, yet beautiful film due to this sense of place, Luzzu highlights a story that’s rooted in tradition and particula…",
+            "author_id": "91895912",
+            "created_at": "2021-10-18T16:16:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 74,
+                        "end": 78,
+                        "probability": 0.3522,
+                        "type": "Person",
+                        "normalized_text": "Luzzu"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "KinoLorber",
+                        "id": "19617424"
+                    }
+                ]
+            },
+            "source": "Twitter Web App",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133731612807171",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1448045814455152641"
+                }
+            ]
+        },
+        {
+            "text": "RT @stillswankin: FORGET WHAT THEY SAY BOUTCHU I ALREADY KNEW YOU WAS REAL💯\n\nThe true generosity of Kyrie Irving:\n\n- Bought George Floyd’s…",
+            "author_id": "745516643829194753",
+            "created_at": "2021-10-18T16:16:37.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 101,
+                        "end": 112,
+                        "probability": 0.9914,
+                        "type": "Person",
+                        "normalized_text": "Kyrie Irving"
+                    },
+                    {
+                        "start": 125,
+                        "end": 136,
+                        "probability": 0.9674,
+                        "type": "Person",
+                        "normalized_text": "George Floyd"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "stillswankin",
+                        "id": "865814896830816256"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133727313645573",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1450125885475012610"
+                }
+            ]
+        },
+        {
+            "text": "RT @BTSPressData: “My Universe (SUGA’s Remix)” was born from a conversation the @BTS_twt &amp; @coldplay had during a NYC lunch date. \n\n“I’m th…",
+            "author_id": "1427616652737355776",
+            "created_at": "2021-10-18T16:16:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 29,
+                        "probability": 0.8184,
+                        "type": "Other",
+                        "normalized_text": "My Universe"
+                    },
+                    {
+                        "start": 114,
+                        "end": 116,
+                        "probability": 0.5109,
+                        "type": "Place",
+                        "normalized_text": "NYC"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "BTSPressData",
+                        "id": "1232321152216788993"
+                    },
+                    {
+                        "start": 80,
+                        "end": 88,
+                        "username": "BTS_twt",
+                        "id": "335141638"
+                    },
+                    {
+                        "start": 95,
+                        "end": 104,
+                        "username": "coldplay",
+                        "id": "18863815"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133723782033409",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1450132522000543747"
+                }
+            ]
+        },
+        {
+            "text": "RT @BTSPressData: “My Universe (SUGA’s Remix)” was born from a conversation the @BTS_twt &amp; @coldplay had during a NYC lunch date. \n\n“I’m th…",
+            "author_id": "1230026358119686144",
+            "created_at": "2021-10-18T16:16:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 29,
+                        "probability": 0.8184,
+                        "type": "Other",
+                        "normalized_text": "My Universe"
+                    },
+                    {
+                        "start": 114,
+                        "end": 116,
+                        "probability": 0.5109,
+                        "type": "Place",
+                        "normalized_text": "NYC"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "BTSPressData",
+                        "id": "1232321152216788993"
+                    },
+                    {
+                        "start": 80,
+                        "end": 88,
+                        "username": "BTS_twt",
+                        "id": "335141638"
+                    },
+                    {
+                        "start": 95,
+                        "end": 104,
+                        "username": "coldplay",
+                        "id": "18863815"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133721953210374",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1450132522000543747"
+                }
+            ]
+        },
+        {
+            "text": "RT @BTSPressData: “My Universe (SUGA’s Remix)” was born from a conversation the @BTS_twt &amp; @coldplay had during a NYC lunch date. \n\n“I’m th…",
+            "author_id": "1243828665349296129",
+            "created_at": "2021-10-18T16:16:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 29,
+                        "probability": 0.8184,
+                        "type": "Other",
+                        "normalized_text": "My Universe"
+                    },
+                    {
+                        "start": 114,
+                        "end": 116,
+                        "probability": 0.5109,
+                        "type": "Place",
+                        "normalized_text": "NYC"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "BTSPressData",
+                        "id": "1232321152216788993"
+                    },
+                    {
+                        "start": 80,
+                        "end": 88,
+                        "username": "BTS_twt",
+                        "id": "335141638"
+                    },
+                    {
+                        "start": 95,
+                        "end": 104,
+                        "username": "coldplay",
+                        "id": "18863815"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133721332568064",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1450132522000543747"
+                }
+            ]
+        },
+        {
+            "text": "have a strong need to create: who plays an instrument and/or sings or just likes to create music in any form (beat boxing), is in nyc and wants to jam? pls slide into these dms",
+            "author_id": "2857140466",
+            "created_at": "2021-10-18T16:16:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 130,
+                        "end": 132,
+                        "probability": 0.7084,
+                        "type": "Place",
+                        "normalized_text": "nyc"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133718945910789"
+        },
+        {
+            "text": "RT @DelacroixOmar: NYC 🗽• Nigga wanted to submit. Came in w/ sweats on, no undies and ran me my fee 🤷🏾‍♂️🍆💰📲\n.\n.\n.\n.\n. https://t.co/5Vp4tue…",
+            "author_id": "922456897457934336",
+            "created_at": "2021-10-18T16:16:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 21,
+                        "probability": 0.7726,
+                        "type": "Place",
+                        "normalized_text": "NYC"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 17,
+                        "username": "DelacroixOmar",
+                        "id": "1223990235241111552"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133717599588352",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1409136272707395589"
+                }
+            ]
+        },
+        {
+            "text": "RT @agreatbigcity: NYC Begins Bio-Attack Readiness Test With Release of Non-Toxic Gas in Parks, Subways https://t.co/0PcMgchKvA",
+            "author_id": "1723627166",
+            "created_at": "2021-10-18T16:16:33.000Z",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 104,
+                        "end": 127,
+                        "url": "https://t.co/0PcMgchKvA",
+                        "expanded_url": "https://www.nbcnewyork.com/news/local/nyc-begins-bio-attack-readiness-test-with-release-of-non-toxic-gas-in-parks-subways/3329997/?ref=agreatbigcity.com",
+                        "display_url": "nbcnewyork.com/news/local/nyc…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1450078371153592320/_2g52YTR?format=jpg&name=orig",
+                                "width": 1200,
+                                "height": 675
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1450078371153592320/_2g52YTR?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Feds Start Bio-Attack Readiness Test With Non-Toxic Gas Release in NYC Parks, Subways",
+                        "description": "New York City’s response plans for a chemical or biological attack will be put to the test starting Monday as part of a federal preparedness study. The MTA says the Department of Homeland Security working alongside a team of researchers and city agencies will deploy a non-toxic gas on five separate days between Oct. 18 and 29 at about 120…",
+                        "unwound_url": "https://www.nbcnewyork.com/news/local/nyc-begins-bio-attack-readiness-test-with-release-of-non-toxic-gas-in-parks-subways/3329997/?ref=agreatbigcity.com"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 21,
+                        "probability": 0.6563,
+                        "type": "Place",
+                        "normalized_text": "NYC"
+                    },
+                    {
+                        "start": 89,
+                        "end": 102,
+                        "probability": 0.4413,
+                        "type": "Place",
+                        "normalized_text": "Parks, Subways"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 17,
+                        "username": "agreatbigcity",
+                        "id": "198567904"
+                    }
+                ]
+            },
+            "source": "Twitter for iPhone",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133709382995978",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1450078366527283203"
+                }
+            ]
+        },
+        {
+            "text": "RT @BuckSexton: In NYC, restaurants will allow outdoor dining but the moment you try to use their restroom, a staffer will chase you down a…",
+            "author_id": "1263355310",
+            "created_at": "2021-10-18T16:16:33.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 19,
+                        "end": 21,
+                        "probability": 0.9839,
+                        "type": "Place",
+                        "normalized_text": "NYC"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "BuckSexton",
+                        "id": "334715818"
+                    }
+                ]
+            },
+            "source": "Twitter for Android",
+            "lang": "en",
+            "possibly_sensitive": false,
+            "id": "1450133709143740423",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1450109797194403853"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "newest_id": "1450133732216688646",
+        "oldest_id": "1450133709143740423",
+        "result_count": 10,
+        "next_token": "b26v89c19zqg8o3fpdv5sc1z9hdywv6nn6i5qo3ogx471"
+    }
+}
